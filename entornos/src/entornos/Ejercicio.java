@@ -16,6 +16,7 @@ public class Ejercicio {
 	}
 }
 //CAMBIO
+//CAMBIO2.
 
 class MiMarco extends JFrame {
 
