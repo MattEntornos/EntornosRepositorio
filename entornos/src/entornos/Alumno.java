@@ -9,7 +9,7 @@ import entornos.Alumno;
 
 public class Alumno {
 	
-	
+
 	String nombre="matt";
 	String apellidos="Acuña";
 	private int  numalumnos=0;
@@ -48,7 +48,7 @@ public class Alumno {
 	public String getNombre() {
 		return nombre;
 	}
-
+	//COMPROBACIÓN 2
 	/**
 	 * @param nom recoge el nombre del  alumno.
 	 */
