@@ -34,5 +34,6 @@ class MiMarco extends JFrame {
 		// setExtendedState(Frame.MAXIMIZED_BOTH);
 		// A continuación le asigno un titulo.
 		setTitle("STAY STRONG");
+		System.out.println("utfcu");
 	}
 }
