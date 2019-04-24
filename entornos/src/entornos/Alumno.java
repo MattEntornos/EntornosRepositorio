@@ -3,7 +3,7 @@ package entornos;
 import entornos.Alumno;
 
 /**
- * @author Anthony Cedeño
+ * @author Matthew
  * @version 1.0.
  */
 
